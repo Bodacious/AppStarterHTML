@@ -4,6 +4,6 @@ Feel free to browse the info here, at [the homepage](http://appstarter.katanacod
 
 ## Contents
 
-* [Introduction][introduction/introduction.html]
-* [Product][product/introduction.html]
-  * [What does it do?][product/what_does_it_do.html]
+* [Introduction](introduction/introduction.html)
+* [Product](product/introduction.html)
+  * [What does it do?](product/what_does_it_do.html)
